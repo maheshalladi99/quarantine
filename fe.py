@@ -24,7 +24,7 @@ ol=[]
 m=0
 n=10
 
-
+#rearanginig the number 
 for i in range(0,10):
     ol.append(l1[m:n])
     m=m+10
