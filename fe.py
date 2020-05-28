@@ -6,7 +6,7 @@ print("\n\n                            *****welcome to the snakes and ladders ga
 l1=[]
 i=1
 
-
+#creation of number
 while(i<=100):
     l1.append(i)
     #print(i,end=" ")
