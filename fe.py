@@ -59,6 +59,7 @@ def movep3(p3,rv):
     #print("\nplayer",i,"at",p3)
     return p3
 
+#ladders
 
 lad=["2 to 19","3 to 43","5 to 28 ","7 to 34","26 to 75", " 44 to 84 ", "39 to 99", "65 to 96"]
 
