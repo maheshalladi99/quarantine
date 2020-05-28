@@ -32,7 +32,8 @@ for i in range(0,10):
     m=m+10
     n=n+10
 
-    
+ #array creation
+
 ol.reverse()
 ol=numpy.array(ol)
 
