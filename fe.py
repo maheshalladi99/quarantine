@@ -7,6 +7,7 @@ l1=[]
 i=1
 
 #creation of number
+
 while(i<=100):
     l1.append(i)
     #print(i,end=" ")
@@ -25,6 +26,7 @@ m=0
 n=10
 
 #rearanginig the number 
+
 for i in range(0,10):
     ol.append(l1[m:n])
     m=m+10
