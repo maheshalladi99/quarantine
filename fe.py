@@ -41,6 +41,8 @@ ol=numpy.array(ol)
 #print("\n",ol)
 #print(ol)
 
+#moving of coins
+
 def movep1(p1,rv):
     p1=p1+rv
     #print("\nplayer",i,"at",p1)
