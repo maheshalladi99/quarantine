@@ -105,6 +105,7 @@ def ladder(d1):
     else:
         return d1
 
+#snakes
 
 snk=["99 to 2","91 to 10","76 to 26","46 to 15","72 to 2","37 to 14","80 to ","80 to 60"]
 
