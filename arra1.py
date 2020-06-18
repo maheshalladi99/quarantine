@@ -1,7 +1,11 @@
 def consecutivecount(a):
+    
+    
     count=0
     j=0
     i=0
+    
+    
     while(j<len(a)):
         i=i+count
         count=0
@@ -13,6 +17,11 @@ def consecutivecount(a):
             if(a[i]!=a[j]):
                 break
         print("(",count,",",a[i],")")
+        
+        
+        
+        
+        
 def main():
     if __name__=="__main__":
         try:
@@ -22,5 +31,10 @@ def main():
         except None as input_error:
             print("input is of wrong format")
             main()
+            
+            
+            
+            
+            
 while(1):
     main()
