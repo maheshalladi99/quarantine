@@ -5,7 +5,7 @@ def consecutivecount(a):
     j=0
     i=0
     
-    
+   
     while(j<len(a)):
         i=i+count
         count=0
