@@ -63,5 +63,6 @@ def main_screen():
     Button(text="Register",width="30",height="2",command= Register).pack()
 
     screen.mainloop()
+    
 main_screen()
     
