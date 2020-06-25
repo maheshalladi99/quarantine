@@ -49,9 +49,7 @@ def Login():
     print("hai")
     
     
-             
-
-
+           
 def main_screen():
     global screen
     screen=Tk()
