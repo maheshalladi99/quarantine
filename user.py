@@ -1,6 +1,8 @@
 from tkinter import *
 import os
 
+
+
 def reg_user():
     user_info=username.get()
     pass_info=password.get()
