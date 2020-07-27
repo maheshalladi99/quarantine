@@ -1,7 +1,7 @@
 import numpy
 import random
 
-print("\n\n                            ***** welcome to the snakes and ladders game *****")
+print("\n\n                            ***** welcome to the snakes and ladders game * ****")
 
 l1=[]
 i=1
