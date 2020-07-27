@@ -1,8 +1,6 @@
 from tkinter import *
 import os
 
-
-
 def reg_user():
     user_info=username.get()
     pass_info=password.get()
@@ -49,9 +47,9 @@ def Register():
     
 def Login():
     print("hai")
-    
-    
-           
+             
+
+
 def main_screen():
     global screen
     screen=Tk()
@@ -65,6 +63,5 @@ def main_screen():
     Button(text="Register",width="30",height="2",command= Register).pack()
 
     screen.mainloop()
-    
 main_screen()
     
